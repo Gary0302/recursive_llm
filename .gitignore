@@ -1,4 +1,4 @@
 thought_process/
 *.json
 .DS_Store
-.env
+.venv
